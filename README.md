@@ -1,3 +1,8 @@
+NAME: SRI PRAVALIKA KONAKALLA 
+DOMAIN: ARTIFICIAL INTELLIGENCE 
+INTERN ID:CT08DS4238 
+BATCH DURATION: July to August 2024
+
 <samp>
     
 # [Real-time-Vehicle-Dection-Python](https://kalebujordan.dev/real-time-vehicle-detection-using-python/)
